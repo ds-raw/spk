@@ -1,0 +1,27 @@
+dash==2.15.0
+dash-bootstrap-components==1.5.0
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+dash-iconify==0.1.2
+dash-mantine-components==0.12.1
+dash-table==5.0.0
+dash-tools==1.12.0
+DateTime==5.4
+Flask==3.0.2
+folium==0.15.1
+fonttools==4.25.0
+geographiclib==2.0
+geopy==2.4.1
+graphviz==0.20.3
+gunicorn==21.2.0
+numpy==1.25.2
+orjson==3.9.13
+packaging==21.3
+pandas==2.2.0
+scikit-base==0.5.2
+scikit-image @ file:///C:/b/abs_2075zg1pia/croot/scikit-image_1682528361447/work
+scikit-learn==1.4.0
+scikit-learn-intelex==20230426.121932
+scipy==1.12.0
+seaborn @ file:///C:/ci_311/seaborn_1676446547861/work
+xgboost==2.0.3
